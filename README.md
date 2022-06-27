@@ -3,7 +3,7 @@
 - 👀 I’m looking for a Data Engineering job.
 - 📫 How to reach me: ntlminh27@gmail.com
 - 📫 [Youtube](https://www.youtube.com/channel/UCDAz3aLXXDd8gS7qRtoglTw)
-- 📫 [My CV](https://docs.google.com/document/d/1jG_z-G-2QjKsLhF83qAl8RvzHGyCa7Jh/edit)
+- 📫 [My CV](https://drive.google.com/drive/folders/1YCNzmtBltGl8lrz2oc4iJBTIzFfXgRAs?usp=sharing)
 
 <!---
 NguyenTranLeMinh/NguyenTranLeMinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
